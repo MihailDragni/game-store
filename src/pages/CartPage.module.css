@@ -3,7 +3,10 @@
   right: 40%;
   top: 100px;
   display: flex;
-  width: 200px;
+	align-items: center;
+  max-width: 200px;
+	column-gap: 10px;
+	width: 100%;
 }
 
 .totalPrice {

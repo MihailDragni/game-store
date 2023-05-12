@@ -8,9 +8,10 @@
   cursor: pointer;
   position: relative;
   border-bottom: 1px solid #5558ed;
+	transition: all 0.3s;
 }
 .wrapper:hover {
-  transition: all 0.3s;
+  
   transform: scale(1.1);
 }
 
